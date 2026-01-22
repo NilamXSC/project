@@ -34,7 +34,7 @@ export default function App() {
 
   const accordionItems = [
     {
-      title: "Data Sources & Methodology",
+      title: "Data Source",
       content: "This dashboard uses aggregated, anonymised Aadhaar enrolment and update datasets. All data processing follows Government of India data protection guidelines. No personal or identifiable information is accessed or displayed."
     },
     {
